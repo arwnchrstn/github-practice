@@ -10,3 +10,5 @@ console.log("hot-fix");
 
 //changed from master branch
 //merge to hot-fix branch
+
+//changes from new-fix
