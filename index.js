@@ -7,3 +7,6 @@ console.log(num);
 //This is a hot fix
 //practice git branching for adding a feature
 console.log("hot-fix");
+
+//changed from master branch
+//merge to hot-fix branch
